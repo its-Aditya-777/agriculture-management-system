@@ -1,0 +1,5 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "search.useIgnoreFiles": true,
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
