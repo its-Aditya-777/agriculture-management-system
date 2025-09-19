@@ -40,7 +40,7 @@ Gram Sewa is an Agriculture Management System designed to streamline and optimiz
 2. Navigate to the project directory:
 
 ```
- cd crop-master
+ cd gramsewa
 ```
 
 3. Install dependencies:
@@ -110,13 +110,13 @@ Gram Sewa is a comprehensive solution for farmers and farm owners to manage thei
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/cropmaster-backend.git
+   git clone https://github.com/yourusername/gramsewa-backend.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd cropmaster-backend
+   cd gramsewa-backend
    ```
 
 3. Update the database configuration in src/main/resources/application.properties:
